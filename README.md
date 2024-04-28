@@ -9,7 +9,7 @@ Visit [Kaggle Bike Sharing Demand Competition](https://www.kaggle.com/c/bike-sha
 [Dataset](https://www.kaggle.com/c/bike-sharing-demand/data)
 ## Project specific files:
 * Jupyter notebook with code run to completion [jupyter notebook](Bike_sharing_demand.ipynb)
-* HTML export of the jupyter notebook [jupyter notebook](Bike_sharing_autogluon.html)
+* HTML export of the jupyter notebook [Html File](Bike_sharing_autogluon.html)
 * Report detailing which methods provided the best score improvement and why. [Project Report](project_report.md)
 
 ## Getting Started
